@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="825b0e3b-d0da-4086-8748-e762e972fd27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/reference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/creator_atlas_v4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/creator_atlas_v4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/reference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="213">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-572">
-              <caret line="97" column="20" lean-forward="true" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+            <state relative-caret-position="440">
+              <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -54,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py" />
         <option value="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/reference.py" />
+        <option value="$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py" />
       </list>
     </option>
   </component>
@@ -133,12 +133,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550604049250</updated>
-      <workItem from="1550604050866" duration="6954000" />
+      <workItem from="1550604050866" duration="8645000" />
+      <workItem from="1550765068217" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6954000" />
+    <option name="totallyTimeSpent" value="8674000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -159,7 +160,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32965517" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="0" sideWeight="0.49856323" visible="true" weight="0.16040269" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" sideWeight="0.49856323" weight="0.16040269" />
       <window_info anchor="right" x="575" y="106" width="488" height="696" id="SciView" order="1" sideWeight="0.49712643" weight="0.32950708" />
       <window_info anchor="right" id="Database" order="2" weight="0.13090418" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
@@ -196,20 +197,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py">
+    <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/reference.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="97" column="20" lean-forward="true" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+        <state relative-caret-position="213">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/reference.py">
+    <entry file="file://$PROJECT_DIR$/project_schemas/atlas_schema_python_v3/atlas_pipeline/brain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="440">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

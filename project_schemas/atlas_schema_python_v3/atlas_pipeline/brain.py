@@ -73,8 +73,7 @@ class Injection(dj.Manual):  # Viral injections
 @schema
 class Histology(dj.Manual):
     definition = """
-    -> Mouse                        # One Histology per injection per mouse
-    -> Injection
+    -> Injection                        # One Histology per injection per mouse
     ---
     region         : varchar(10)    # (Str) [UNSURE]
     thickness      : int            # (int) thickness of each slice in microns
